@@ -1,0 +1,3 @@
+[functions.admin-management]
+verify_jwt = true
+entrypoint = "./functions/admin-management/index.ts"
